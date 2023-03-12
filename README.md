@@ -46,4 +46,6 @@ A tool for generating "random" strings from bottoms.
    ```
     or, use the web interface provided by FastAPI at `https://<hostname>/docs`
 
+---
+
 ![bottom.png](bottom.png)
