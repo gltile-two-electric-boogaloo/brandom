@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "brandom"
+version = "0.1.0"
+description = "generate random characters from bottoms"
+authors = ["Sarah C <80788438+gltile-two-electric-boogaloo@users.noreply.github.com>"]
+license = "WTFPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.94.0"
+discord-py-self = {git = "https://github.com/dolfies/discord.py-self"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
