@@ -5,7 +5,7 @@ A tool for generating "random" strings from bottoms.
 > This application makes use of a Discord selfbot via discord.py-self. Discord selfbots are banned by the Discord Terms of Service.
 
 ## Getting started
-1. Find a bottom
+1. Find a bottom (that doesn't mind being called a girl)
 2. Install application dependencies:
    ```
    pip install -r requirements.txt
